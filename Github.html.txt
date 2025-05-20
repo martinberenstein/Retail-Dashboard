@@ -2,10 +2,10 @@
 <html lang="es">
 <head>
   <meta charset="UTF-8">
-  <title>Mi Primer Archivo HTML</title>
+  <title> HTML</title>
 </head>
 <body>
-  <h1>¡Hola, mundo!</h1>
-  <p>Este es mi primer archivo HTML.</p>
+  <h1></h1>
+  <p>.</p>
 </body>
 </html>
